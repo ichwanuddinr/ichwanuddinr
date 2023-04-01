@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ichwanuddin Rosyadi and I'm a Data Analyst.
+## I'm Ichwanuddin Rosyadi and I'm a Data Analyst.
 
 I am a passionate learner and graduate with a degree in interior design. While studying, I became interested in data analysis and decided to explore this field further. As a data analyst, I have gained proficiency in programming languages like Python, SQL, basic HTML, and CSS. I enjoy analyzing data and finding insights that can help solve complex problems. Outside of work, I love to travel and expand my knowledge by learning about new cultures and trying new things. With my creative and analytical skills, I aim to make an impact in the field of data analysis and contribute to innovative solutions.
 
